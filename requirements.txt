@@ -1,7 +1,6 @@
 # General dependencies
 pandas
 matplotlib
-plotly
 streamlit
 seaborn
 
