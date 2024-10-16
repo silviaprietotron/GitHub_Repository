@@ -2,7 +2,7 @@
 
 **Portfolio de Proyectos de Análisis de Datos**
 
-Este repositorio contiene tres proyectos desarrollados en Streamlit, enfocados en la visualización y análisis de datos financieros y de proyectos. Ambos proyectos destacan habilidades clave en la manipulación de datos, visualización interactiva y el uso de APIs y bases de datos SQL.
+Este repositorio contiene cuatro proyectos desarrollados en Streamlit, enfocados en la visualización y análisis de datos financieros y de proyectos. Ambos proyectos destacan habilidades clave en la manipulación de datos, visualización interactiva y el uso de APIs y bases de datos SQL.
 
 **1. Visualización de Datos de Criptomonedas (Kraken API)**
 
