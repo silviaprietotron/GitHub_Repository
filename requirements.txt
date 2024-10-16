@@ -1,6 +1,11 @@
 #1 Cryptocurrencies
+#streamlit
+#krakenex
+#pandas
+#matplotlib
 
 #2 SQL
+
 
 #3 Sentiment Analysis
 streamlit
