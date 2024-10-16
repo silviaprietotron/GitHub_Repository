@@ -12,4 +12,4 @@ textblob
 krakenex
 
 # Base de datos ECSEL
-sqlalchemy
+sqlite3
