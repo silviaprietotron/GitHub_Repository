@@ -1,14 +1,10 @@
-# General dependencies
 pandas
 matplotlib
 streamlit
 seaborn
 
-# Análisis de Sentimientos
 textblob
 
-# Datos financieros de Kraken
 krakenex
 
-# Base de datos ECSEL
 sqlite3
