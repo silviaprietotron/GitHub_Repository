@@ -53,6 +53,22 @@ Tecnologías utilizadas:
 -Seaborn
 -Streamlit
 
+** 4 Clasificador de Dígitos Manuscritos (Red Neuronal con MNIST) **
+
+Este proyecto utiliza una red neuronal simple para clasificar imágenes de dígitos manuscritos del conjunto de datos MNIST. La aplicación, desarrollada en Streamlit, permite:
+
+-Visualizar ejemplos del conjunto de datos MNIST.
+-Entrenar una red neuronal con el conjunto de datos.
+-Graficar la precisión y la pérdida del modelo durante el entrenamiento.
+-Realizar predicciones sobre las imágenes de prueba y mostrar las predicciones junto a las etiquetas reales.
+
+Tecnologías utilizadas:
+
+-TensorFlow
+-Keras
+-Matplotlib
+-Streamlit
+
 **Próximos proyectos**
 Actualmente, estoy trabajando en la expansión de este portafolio con nuevos proyectos relacionados con el análisis de datos y la visualización avanzada.
 
@@ -108,6 +124,22 @@ Technologies used:
 -Pandas
 -Matplotlib
 -Seaborn
+-Streamlit
+
+** 4 Handwritten Digits Classifier (Neural Network with MNIST) **
+
+This project uses a simple neural network to classify images of handwritten digits from the MNIST dataset. The application, developed in Streamlit, enables users to:
+
+-Visualize examples from the MNIST dataset.
+-Train a neural network with the dataset.
+-Plot the model’s accuracy and loss during training.
+-Make predictions on test images and display predictions alongside true labels.
+
+Technologies used:
+
+-TensorFlow
+-Keras
+-Matplotlib
 -Streamlit
 
 **Upcoming Projects**
