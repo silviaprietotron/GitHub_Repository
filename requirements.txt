@@ -1,8 +1,14 @@
-krakenex
-pandas
-matplotlib
-streamlit
-Pillow
-sqlite3
-seaborn
-textblob
+# General dependencies
+pandas==2.1.0
+matplotlib==3.7.2
+plotly==5.15.0
+streamlit==1.27.1
+
+# Análisis de Sentimientos
+vaderSentiment==3.3.2
+
+# Datos financieros de Kraken
+krakenex==2.1.0
+
+# Base de datos ECSEL
+sqlalchemy==2.0.21
