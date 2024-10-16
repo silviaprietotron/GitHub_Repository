@@ -11,8 +11,14 @@
 #streamlit
 
 #3 Sentiment Analysis
+#streamlit
+#matplotlib
+#seaborn
+#textblob
+#pandas 
+
+#4 MNIST 
 streamlit
+tensorflow
 matplotlib
-seaborn
-textblob
-pandas 
+nunmpy
