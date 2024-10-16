@@ -53,7 +53,7 @@ Tecnologías utilizadas:
 -Seaborn
 -Streamlit
 
-** 4 Clasificador de Dígitos Manuscritos (Red Neuronal con MNIST) **
+**4. Clasificador de Dígitos Manuscritos (Red Neuronal con MNIST)**
 
 Este proyecto utiliza una red neuronal simple para clasificar imágenes de dígitos manuscritos del conjunto de datos MNIST. La aplicación, desarrollada en Streamlit, permite:
 
@@ -126,7 +126,7 @@ Technologies used:
 -Seaborn
 -Streamlit
 
-** 4 Handwritten Digits Classifier (Neural Network with MNIST) **
+**4. Handwritten Digits Classifier (Neural Network with MNIST)**
 
 This project uses a simple neural network to classify images of handwritten digits from the MNIST dataset. The application, developed in Streamlit, enables users to:
 
