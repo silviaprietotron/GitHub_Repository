@@ -21,4 +21,4 @@
 streamlit
 tensorflow
 matplotlib
-nunmpy
+numpy
