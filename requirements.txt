@@ -1,0 +1,6 @@
+krakenex
+pandas
+matplotlib
+streamlit
+Pillow
+sqlite3
