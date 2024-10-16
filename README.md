@@ -36,6 +36,23 @@ Tecnologías utilizadas:
 -Pandas
 -Streamlit
 
+**3. Análisis de Sentimientos de Reseñas**
+
+Este proyecto realiza un análisis de sentimientos sobre un conjunto de reseñas mediante la aplicación de técnicas de procesamiento de texto. La aplicación, desarrollada en Streamlit, permite:
+
+-Ingresar reseñas manualmente o cargar un archivo CSV.
+-Analizar la polaridad y subjetividad de las reseñas.
+-Visualizar la distribución de polaridad y subjetividad mediante gráficos.
+-Mostrar un desglose de sentimientos a través de gráficos interactivos, como gráficos de barras y gráficos de dispersión.
+
+Tecnologías utilizadas:
+
+-TextBlob
+-Pandas
+-Matplotlib
+-Seaborn
+-Streamlit
+
 **Próximos proyectos**
 Actualmente, estoy trabajando en la expansión de este portafolio con nuevos proyectos relacionados con el análisis de datos y la visualización avanzada.
 
@@ -74,6 +91,23 @@ Technologies used:
 
 -SQLite
 -Pandas
+-Streamlit
+
+**3. Sentiment Analysis of Reviews**
+
+This project performs sentiment analysis on a set of reviews using text processing techniques. The application, developed in Streamlit, allows users to:
+
+-Input reviews manually or upload a CSV file.
+-Analyze the polarity and subjectivity of the reviews.
+-Visualize the distribution of polarity and subjectivity through charts.
+-Display a sentiment breakdown through interactive charts, including bar charts and scatter plots.
+
+Technologies used:
+
+-TextBlob
+-Pandas
+-Matplotlib
+-Seaborn
 -Streamlit
 
 **Upcoming Projects**
