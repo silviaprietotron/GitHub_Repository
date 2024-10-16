@@ -8,6 +8,7 @@ seaborn==0.12.2
 # Análisis de Sentimientos
 vaderSentiment==3.3.2
 textblob==0.17.1
+nltk==3.8.1
 
 # Datos financieros de Kraken
 krakenex==2.1.0
