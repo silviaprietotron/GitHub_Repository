@@ -1,3 +1,8 @@
+#1 Cryptocurrencies
+
+#2 SQL
+
+#3 Sentiment Analysis
 streamlit
 matplotlib
 seaborn
