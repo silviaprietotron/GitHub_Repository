@@ -4,6 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import nltk
+nltk.download('punkt')
+
 # Configurar estilo de Seaborn para gráficos más atractivos
 sns.set(style="whitegrid")
 
