@@ -1,8 +1,5 @@
 streamlit
-krakenex
-pandas
 matplotlib
-numpy
-sqlite3
 seaborn
 textblob
+pandas
