@@ -3,9 +3,11 @@ pandas==2.1.0
 matplotlib==3.7.2
 plotly==5.15.0
 streamlit==1.27.1
+seaborn==0.12.2
 
 # Análisis de Sentimientos
 vaderSentiment==3.3.2
+textblob==0.17.1
 
 # Datos financieros de Kraken
 krakenex==2.1.0
