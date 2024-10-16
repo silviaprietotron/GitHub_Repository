@@ -5,7 +5,10 @@
 #matplotlib
 
 #2 SQL
-
+#pandas
+#numpy
+#sqlite3
+#streamlit
 
 #3 Sentiment Analysis
 streamlit
