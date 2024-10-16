@@ -1,10 +1,7 @@
+streamlit
+krakenex
 pandas
 matplotlib
-streamlit
-seaborn
-
-textblob
-
-krakenex
-
+numpy
 sqlite3
+seaborn
