@@ -33,10 +33,18 @@ if input_option == "Manual Input":
 else:
     uploaded_file = st.sidebar.file_uploader("Upload a CSV file with a 'Review' column", type=["csv"])
     if uploaded_file is not None:
-        reviews_df = pd.read_csv(uploaded_file)
-        reviews = reviews_df["Review"].tolist()
+        try:
+            reviews_df = pd.read_csv(uploaded_file)
+            if "Review" in reviews_df.columns:
+                reviews = reviews_df["Review"].tolist()
+            else:
+                st.error("The uploaded CSV file must contain a 'Review' column.")
+                reviews = []
+        except Exception as e:
+            st.error(f"Error loading file: {e}")
+            reviews = []
 
-if reviews:
+if reviews and any(reviews):  # Verificar que hay reseñas para procesar
     # Procesar las reseñas
     df = process_reviews(reviews)
     
@@ -92,4 +100,3 @@ if reviews:
     ax.set_ylabel("Count / Avg Polarity")
     ax.set_title("Sentiment Count and Average Polarity")
     st.pyplot(fig)
-
