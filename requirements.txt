@@ -4,3 +4,5 @@ matplotlib
 streamlit
 Pillow
 sqlite3
+tweepy
+textblob
